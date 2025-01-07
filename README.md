@@ -1,4 +1,4 @@
-# PhonePe Pulse Data Visualization Project
+# Pulse Insights: Interactive Data Exploration Dashboard
 Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Streamlit and Plotly
 
 # Project Overview
