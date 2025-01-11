@@ -29,3 +29,5 @@ Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Str
 * Dynamic updating: You will learn how to create a dashboard that dynamically updates based on the latest data in a database.
 * Project development and deployment: You will learn how to develop a comprehensive and user-friendly solution, from data extraction to dashboard deployment. You will also learn how to   
   test and deploy the solution to ensure it is secure, efficient, and user-friendly.
+
+**Demo Video**: [click here](https://www.linkedin.com/posts/g-kamaleashwar-28a2802ba_project-spotlight-pulse-insights-interactive-activity-7283836902988750848-2uIO?utm_source=share&utm_medium=member_desktop)
